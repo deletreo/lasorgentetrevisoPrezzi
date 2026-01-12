@@ -1131,41 +1131,73 @@
       }
     },
     {
-  "id": "atena",
-  "nome": "Atena",
-  "categoria": "aziende",
-  "prezzo": 6000,
-  "varianti": [
-    { "nome": "Atena 30", "prezzo": 6000, "descrizione": "Compresi 100 Bottiglie" },
-    { "nome": "Atena 50", "prezzo": 6500, "descrizione": "Compresi 100 Bottiglie" },
-    { "nome": "Atena 80", "prezzo": 7000, "descrizione": "Compresi 100 Bottiglie" },
-    { "nome": "Atena 120", "prezzo": 7500, "descrizione": "Compresi 100 Bottiglie" },
-    { "nome": "Atena 180", "prezzo": 9500, "descrizione": "Compresi 100 Bottiglie" }
-  ],
-  "target": [
-    "ufficio",
-    "vending"
-  ],
-  "tecnologia": "Ultrafiltrazione/Microfiltrazione",
-  "installazione": "Colonna",
-  "immagini": [
-    "/fotoProdotti/prodotti uffici/atena/atena1.png",
-    "/fotoProdotti/prodotti uffici/atena/atena2.jpg",
-    "/fotoProdotti/prodotti uffici/atena/atena3.jpg"
-  ],
-  "descrizione_breve": "Erogatore 3 vie acqua liscia ambiente, fredda e gassata.",
-  "descrizione_estesa": "ATENA: IL GIGANTE GENTILE PER L'UFFICIO\n\nColonna erogatrice Made in Italy, potente, silenziosa e dal design innovativo. Ideale per uffici e vending.\n\nCARATTERISTICHE PRO:\n• 3 Vie: Liscia ambiente, Fredda, Gassata.\n• Igiene Totale: Lampada UVC led sul punto di erogazione per prevenire retrocontaminazioni batteriche.\n• Ampio Vano: Spazio ottimizzato per riempire comodamente borracce, caraffe e bottiglie.\n\nComponentistica di alta qualità conforme al DM 174/2004.",
-  "caratteristiche": [
-    { "nome": "Materiale carrozzeria", "valore": "lamiera verniciata" },
-    { "nome": "Produttività", "valore": "30 - 180 l/h" },
-    { "nome": "Dimensioni (LxPxH)", "valore": "38x38x133cm" },
-    { "nome": "Connessioni", "valore": "H2O: 8mm / Co2: 6mm" }
-  ],
-  "specifiche": {
-    "plus": "Lampada UVC in linea",
-    "capacita": "30-180 lt/h"
-  }
-},
+      "id": "atena",
+      "nome": "Atena",
+      "categoria": "aziende",
+      "prezzo": 6000,
+      "varianti": [
+        {
+          "nome": "Atena 30",
+          "prezzo": 6000,
+          "descrizione": "Compresi 100 Bottiglie"
+        },
+        {
+          "nome": "Atena 50",
+          "prezzo": 6500,
+          "descrizione": "Compresi 100 Bottiglie"
+        },
+        {
+          "nome": "Atena 80",
+          "prezzo": 7000,
+          "descrizione": "Compresi 100 Bottiglie"
+        },
+        {
+          "nome": "Atena 120",
+          "prezzo": 7500,
+          "descrizione": "Compresi 100 Bottiglie"
+        },
+        {
+          "nome": "Atena 180",
+          "prezzo": 9500,
+          "descrizione": "Compresi 100 Bottiglie"
+        }
+      ],
+      "target": [
+        "ufficio",
+        "vending"
+      ],
+      "tecnologia": "Ultrafiltrazione/Microfiltrazione",
+      "installazione": "Colonna",
+      "immagini": [
+        "/fotoProdotti/prodotti uffici/atena/atena1.png",
+        "/fotoProdotti/prodotti uffici/atena/atena2.jpg",
+        "/fotoProdotti/prodotti uffici/atena/atena3.jpg"
+      ],
+      "descrizione_breve": "Erogatore 3 vie acqua liscia ambiente, fredda e gassata.",
+      "descrizione_estesa": "ATENA: IL GIGANTE GENTILE PER L'UFFICIO\n\nColonna erogatrice Made in Italy, potente, silenziosa e dal design innovativo. Ideale per uffici e vending.\n\nCARATTERISTICHE PRO:\n• 3 Vie: Liscia ambiente, Fredda, Gassata.\n• Igiene Totale: Lampada UVC led sul punto di erogazione per prevenire retrocontaminazioni batteriche.\n• Ampio Vano: Spazio ottimizzato per riempire comodamente borracce, caraffe e bottiglie.\n\nComponentistica di alta qualità conforme al DM 174/2004.",
+      "caratteristiche": [
+        {
+          "nome": "Materiale carrozzeria",
+          "valore": "lamiera verniciata"
+        },
+        {
+          "nome": "Produttività",
+          "valore": "30 - 180 l/h"
+        },
+        {
+          "nome": "Dimensioni (LxPxH)",
+          "valore": "38x38x133cm"
+        },
+        {
+          "nome": "Connessioni",
+          "valore": "H2O: 8mm / Co2: 6mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Lampada UVC in linea",
+        "capacita": "30-180 lt/h"
+      }
+    },
     {
       "id": "elysium-cold-2-vie",
       "nome": "Elysium Cold 2 Vie",
@@ -1894,6 +1926,7 @@
     {
       "id": "tower-pulsanti",
       "nome": "Tower Pulsanti",
+      "prezzo": 670,
       "categoria": "rubinetti",
       "target": [
         "casa",
@@ -1957,6 +1990,7 @@
     {
       "id": "tower-touch",
       "nome": "Tower Touch",
+      "prezzo": 780,
       "categoria": "rubinetti",
       "target": [
         "casa",
@@ -2020,6 +2054,7 @@
     {
       "id": "tower-display",
       "nome": "Tower Display",
+      "prezzo": 1020,
       "categoria": "rubinetti",
       "target": [
         "casa",
@@ -2083,6 +2118,7 @@
     {
       "id": "atena-erogatore",
       "nome": "Atena Erogatore",
+      "prezzo": 720,
       "categoria": "rubinetti",
       "target": [
         "bar",
@@ -2142,6 +2178,7 @@
     {
       "id": "rubinetto-cairo",
       "nome": "Rubinetto Cairo",
+      "prezzo": 350,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2170,6 +2207,7 @@
     {
       "id": "rubinetto-porto",
       "nome": "Rubinetto Porto",
+      "prezzo": 370,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2198,6 +2236,7 @@
     {
       "id": "rubinetto-roma",
       "nome": "Rubinetto Roma",
+      "prezzo": 480,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2226,6 +2265,7 @@
     {
       "id": "rubinetto-seul",
       "nome": "Rubinetto Seul",
+      "prezzo": 260,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2257,6 +2297,7 @@
     {
       "id": "rubinetto-siena",
       "nome": "Rubinetto Siena",
+      "prezzo": 300,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2285,6 +2326,7 @@
     {
       "id": "rubinetto-spill-line",
       "nome": "Rubinetto Spill Line",
+      "prezzo": 550,
       "categoria": "rubinetti",
       "target": [
         "bar",
@@ -2307,6 +2349,7 @@
     {
       "id": "rubinetto-spill-pro",
       "nome": "Rubinetto Spill Pro",
+      "prezzo": 520,
       "categoria": "rubinetti",
       "target": [
         "bar",
@@ -2328,6 +2371,7 @@
     {
       "id": "rubinetto-tokyo",
       "nome": "Rubinetto Tokyo",
+      "prezzo": 230,
       "categoria": "rubinetti",
       "target": [
         "casa"
@@ -2566,6 +2610,7 @@
     {
       "id": "crystal-nylon",
       "nome": "Crystal Nylon",
+      "prezzo": 15,
       "categoria": "borracce",
       "target": [
         "personale"
@@ -2603,6 +2648,7 @@
     {
       "id": "crystal-legno",
       "nome": "Crystal Legno",
+      "prezzo": 15,
       "categoria": "borracce",
       "target": [
         "personale"
@@ -2640,6 +2686,7 @@
     {
       "id": "hydrox-ceramica",
       "nome": "Hydrox Ceramica",
+      "prezzo": 35,
       "categoria": "borracce",
       "target": [
         "personale"
@@ -2650,7 +2697,7 @@
         "/fotoProdotti/borrace/hydroxCeramic/hydroxCeramic600.png"
       ],
       "descrizione_breve": "Borraccia Acciaio inox con rivestimento in ceramica 600ml.",
-      "descrizione_estesa": "HYDROX CERAMICA 600ML\n\nUn nuovo modo di idratarsi: Tecnologia ibrida Acciaio-Ceramica.\n\nPERCHÉ È SPECIALE:\n• Gusto Puro: Il rivestimento interno in ceramica evita il contatto coi metalli. Nessun trasferimento di sapore.\n• Temperatura: Mantiene la temperatura a lungo grazie alla struttura isolata.\n• Igiene: Facilissima da pulire con semplice acqua.\n• Design: Manico ergonomico per il trasporto.\n\nIl gusto autentico della tua bevanda, ovunque tu sia.",
+      "descrizione_estesa": "HYDROX CERAMICA 600ML\n\nUn nuovo modo di idratarsi: Tecnologia ibrida Acciaio-Ceramica.\n\nPERCHÉ È SPECIALE:\n• Gusto Puro: Il rivestimento interno in ceramica evita il contatto coi metalli. Nessun trasferimento di sapore.\n• Temperatura: Mantiene la temperatura a lungo grazie alla struttura isolata.\n• Igiene: Facilissima da pulire con semplice acqua.\n• Design: Manico ergonomico per il trasporto.\n\nIl gusto autentico della tua bevanda, ovunque tu sia.\n\nLe personalizzazioni hanno un costo di €5",
       "caratteristiche": [
         {
           "nome": "Materiale",
@@ -2677,6 +2724,7 @@
     {
       "id": "tritarifiuti-la-sorgente",
       "nome": "Tritarifiuti La Sorgente",
+      "prezzo": 500,
       "categoria": "tritarifiuti",
       "target": [
         "casa"
@@ -2751,6 +2799,422 @@
       "specifiche": {
         "plus": "Compatto e Silenzioso",
         "capacita": "1100 ml"
+      }
+    },
+    {
+      "id": "bottiglia-basic-75",
+      "nome": "Bottiglia Basic 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroBasic75Trasparente.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro resistente Basic 75cl Trasparente.",
+      "descrizione_estesa": "BOTTIGLIA BASIC 75CL\n\nBottiglia elegante in vetro resistente, di alta qualità e trasparenza.\nBottiglia consigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "600 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "240 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "85 mm"
+        },
+        {
+          "nome": "Spazio etichettabile",
+          "valore": "148,5 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Basic",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-classic-75",
+      "nome": "Bottiglia Classic 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroClassic75Trasparente.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro resistente Classic 75cl Trasparente.",
+      "descrizione_estesa": "BOTTIGLIA CLASSIC 75CL\n\nBottiglia elegante in vetro resistente, di alta qualità e trasparenza.\nBottiglia consigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "500 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "312 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "65 mm"
+        },
+        {
+          "nome": "Spazio etichettabile",
+          "valore": "74,25 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Classico",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-cilinder-50",
+      "nome": "Bottiglia Cilinder 50cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaCilinderTappoNero50.jpg"
+      ],
+      "descrizione_breve": "Bottiglia Cilinder 50cl con Tappo Nero.",
+      "descrizione_estesa": "BOTTIGLIA CILINDER 50CL\n\nBottiglia Cilinder lineare ed elegante grazie alla sua superficie cilindrica.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "50 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "300 gr"
+        },
+        {
+          "nome": "Altezza con Tappo",
+          "valore": "23,2 cm"
+        },
+        {
+          "nome": "Altezza senza Tappo",
+          "valore": "23 cm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "6,2 cm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Tappo Nero Incluso",
+        "capacita": "50 cl"
+      }
+    },
+    {
+      "id": "bottiglia-cilinder-75",
+      "nome": "Bottiglia Cilinder 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaCilinderTappoNero75.jpg"
+      ],
+      "descrizione_breve": "Bottiglia Cilinder 75cl con Tappo Nero.",
+      "descrizione_estesa": "BOTTIGLIA CILINDER 75CL\n\nBottiglia Cilinder lineare ed elegante grazie alla sua superficie cilindrica.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "400 gr"
+        },
+        {
+          "nome": "Altezza con Tappo",
+          "valore": "27,3 cm"
+        },
+        {
+          "nome": "Altezza senza Tappo",
+          "valore": "26,8 cm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "6,8 cm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Tappo Nero Incluso",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-tube-75",
+      "nome": "Bottiglia Tube 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroTube75.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Tube 75cl.",
+      "descrizione_estesa": "BOTTIGLIA TUBE 75CL\n\nBottiglia Tube elegante in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "500 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "305 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "67 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Tubolare",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-puffy-75",
+      "nome": "Bottiglia Puffy 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroPuffy75.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Puffy 75cl.",
+      "descrizione_estesa": "BOTTIGLIA PUFFY 75CL\n\nBottiglia Puffy design esclusivo in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "600 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "223 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "81.8 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Puffy",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-diam-70",
+      "nome": "Bottiglia Diam 70cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroDiam70.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Diam 70cl.",
+      "descrizione_estesa": "BOTTIGLIA DIAM 70CL\n\nBottiglia dal design semplice ed esclusivo.\nBottiglia consigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "70 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "750 gr"
+        },
+        {
+          "nome": "Altezza",
+          "valore": "213,2 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "73 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Vetro Resistente",
+        "capacita": "70 cl"
+      }
+    },
+    {
+      "id": "bottiglia-slowly-75",
+      "nome": "Bottiglia Slowly 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroSlowly75.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Slowly 75cl.",
+      "descrizione_estesa": "BOTTIGLIA SLOWLY 75CL\n\nBottiglia Slowly design classico in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "750 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "290 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "58 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Classico",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-old-75",
+      "nome": "Bottiglia Old 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroOld75Trasparente.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Old 75cl Trasparente.",
+      "descrizione_estesa": "BOTTIGLIA OLD 75CL\n\nBottiglia Old design raffinato in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "720 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "292,5 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "83,7 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Design Raffinato",
+        "capacita": "75 cl"
+      }
+    },
+    {
+      "id": "bottiglia-vintage-75",
+      "nome": "Bottiglia Vintage 75cl",
+      "categoria": "bottiglie",
+      "pdf_download": "/listinoAccessoriB2B.pdf",
+      "target": [
+        "ristorante",
+        "bar",
+        "casa"
+      ],
+      "tecnologia": "Vetro",
+      "installazione": "Portatile",
+      "immagini": [
+        "/fotoProdotti/bottiglie/BottigliaInVetroVintage75Trasparente.jpg"
+      ],
+      "descrizione_breve": "Bottiglia in vetro Vintage 75cl Trasparente.",
+      "descrizione_estesa": "BOTTIGLIA VINTAGE 75CL\n\nBottiglia Vintage design classico in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
+      "caratteristiche": [
+        {
+          "nome": "Capacità",
+          "valore": "75 cl"
+        },
+        {
+          "nome": "Peso",
+          "valore": "800 gr"
+        },
+        {
+          "nome": "Altezza totale",
+          "valore": "225 mm"
+        },
+        {
+          "nome": "Diametro",
+          "valore": "104 mm"
+        }
+      ],
+      "specifiche": {
+        "plus": "Stile Vintage",
+        "capacita": "75 cl"
       }
     },
     {

@@ -55,6 +55,9 @@ export default function ProductPage({ params }: { params: Promise<{ id: string }
   ) || [];
 
   // --- LOGICA PREZZO ---
+  // Check if product has PDF download (bottle)
+  const isBottle = !!p.pdf_download;
+  
   const priceString = (() => {
     if (p.varianti && p.varianti.length > 0) {
         const prices = p.varianti.map((v: any) => v.prezzo);
