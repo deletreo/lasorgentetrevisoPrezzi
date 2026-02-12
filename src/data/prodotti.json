@@ -5,10 +5,7 @@
       "nome": "IRON 3 Vie",
       "prezzo": 3290,
       "categoria": "privati",
-      "target": [
-        "casa",
-        "ufficio"
-      ],
+      "target": ["casa", "ufficio"],
       "tecnologia": "Osmosi Inversa",
       "installazione": "Sopralavello",
       "immagini": [
@@ -113,13 +110,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -127,9 +118,7 @@
       "nome": "Icon Undersink 1 Via Meccanico",
       "prezzo": 1000,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sottolavello",
       "immagini": [
@@ -167,13 +156,7 @@
       "specifiche": {
         "plus": "Meccanico senza fili",
         "capacita": "120 lt/h",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -181,9 +164,7 @@
       "nome": "Icon Undersink 2 Vie",
       "prezzo": 1980,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sottolavello",
       "immagini": [
@@ -252,17 +233,8 @@
       ],
       "specifiche": {
         "plus": "Posizionamento Verticale/Orizzontale",
-        "capacita": [
-          "25 lt/h di acqua fredda",
-          "120 lt/h di acqua liscia"
-        ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "capacita": ["25 lt/h di acqua fredda", "120 lt/h di acqua liscia"],
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -270,9 +242,7 @@
       "nome": "Iron Undersink 1 Via",
       "prezzo": 1390,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Osmosi Inversa",
       "installazione": "Sottolavello",
       "immagini": [
@@ -354,13 +324,7 @@
       "specifiche": {
         "plus": "Ultraslim 9.5cm",
         "capacita": "120 lt/h",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -368,9 +332,7 @@
       "nome": "Iron Undersink 2 Vie",
       "prezzo": 2290,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Osmosi Inversa",
       "installazione": "Sottolavello",
       "immagini": [
@@ -451,17 +413,8 @@
       ],
       "specifiche": {
         "plus": "Ultraslim 9.5cm",
-        "capacita": [
-          "25 lt/h di acqua fredda",
-          "120 lt/h di acqua liscia"
-        ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "capacita": ["25 lt/h di acqua fredda", "120 lt/h di acqua liscia"],
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -469,9 +422,7 @@
       "nome": "Icon 3 Vie",
       "prezzo": 2980,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sopralavello",
       "immagini": [
@@ -556,13 +507,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -570,9 +515,7 @@
       "nome": "Iron Sotto Zoccolo 3 Vie",
       "prezzo": 3290,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Osmosi Inversa",
       "installazione": "Sottozoccolo",
       "immagini": [
@@ -681,13 +624,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -695,9 +632,7 @@
       "nome": "Iron Undersink 3 Vie",
       "prezzo": 3290,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Osmosi Inversa",
       "installazione": "Sottolavello",
       "immagini": [
@@ -806,13 +741,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -820,9 +749,7 @@
       "nome": "Icon Sotto Zoccolo 3 Vie",
       "prezzo": 2980,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sottozoccolo",
       "immagini": [
@@ -911,13 +838,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -925,9 +846,7 @@
       "nome": "Icon Undersink 3 Vie",
       "prezzo": 2980,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sottolavello",
       "immagini": [
@@ -1016,13 +935,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -1030,9 +943,7 @@
       "nome": "Icon Cassettone 3 Vie",
       "prezzo": 2980,
       "categoria": "privati",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Cassettone",
       "immagini": [
@@ -1121,13 +1032,7 @@
           "25 lt/h di acqua fredda / gasata",
           "120 lt/h di acqua liscia"
         ],
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -1162,10 +1067,7 @@
           "descrizione": "Compresi 100 Bottiglie"
         }
       ],
-      "target": [
-        "ufficio",
-        "vending"
-      ],
+      "target": ["ufficio", "vending"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
       "immagini": [
@@ -1203,10 +1105,7 @@
       "nome": "Elysium Cold 2 Vie",
       "prezzo": 2980,
       "categoria": "aziende",
-      "target": [
-        "ufficio",
-        "palestra"
-      ],
+      "target": ["ufficio", "palestra"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
       "immagini": [
@@ -1270,14 +1169,10 @@
       "nome": "Elysium 2 Vie",
       "prezzo": 2980,
       "categoria": "aziende",
-      "target": [
-        "ufficio"
-      ],
+      "target": ["ufficio"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
-      "immagini": [
-        "/fotoProdotti/prodotti uffici/elysium2Vie/elysium2Vie.png"
-      ],
+      "immagini": ["/fotoProdotti/prodotti uffici/elysium2Vie/elysium2Vie.png"],
       "descrizione_breve": "Acqua Refrigerata a Colonna con Filtrazione – 2 vie Liscia ambiente e fredda.",
       "descrizione_estesa": "ELYSIUM 2 VIE: IL CLASSICO PER L'UFFICIO\n\nFrigogasatore a colonna Made in Italy, dal design minimale e resistente.\n\nPUNTI DI FORZA:\n• Ergonomia: Ampio vano di erogazione per riempimento rapido.\n• Ordine: Portabicchieri integrato nel design.\n• Igiene: Punto di erogazione protetto da contaminazioni esterne.\n• Versatilità: Scambiatore diretto predisposto anche per acqua calda.\n\nKit completo pronto all'uso per erogare Acqua Ambiente e Fredda.",
       "caratteristiche": [
@@ -1332,14 +1227,10 @@
       "nome": "Elysium 3 Vie",
       "prezzo": 2980,
       "categoria": "aziende",
-      "target": [
-        "ufficio"
-      ],
+      "target": ["ufficio"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
-      "immagini": [
-        "/fotoProdotti/prodotti uffici/elysium3Vie/elysium3Vie.png"
-      ],
+      "immagini": ["/fotoProdotti/prodotti uffici/elysium3Vie/elysium3Vie.png"],
       "descrizione_breve": "Acqua Refrigerata a Colonna con Filtrazione – 3 vie.",
       "descrizione_estesa": "ELYSIUM 3 VIE: COMPLETO E PERFORMANTE\n\nFrigogasatore a colonna completo per ogni esigenza: Acqua Liscia Ambiente, Fredda e Gassata Fredda.\n\nDETTAGLI TECNICI:\n• Controllo: Conta-litri integrato e blocco sicurezza a filtro esaurito.\n• Praticità: Portabicchieri e grande vano erogazione.\n• Igiene: Punto erogazione protetto.\n\nLa soluzione definitiva Made in Italy per l'idratazione in azienda.",
       "caratteristiche": [
@@ -1394,9 +1285,7 @@
       "nome": "Elysium Cold 3 Vie",
       "prezzo": 2980,
       "categoria": "aziende",
-      "target": [
-        "ufficio"
-      ],
+      "target": ["ufficio"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
       "immagini": [
@@ -1464,14 +1353,10 @@
       "nome": "Elysium Hot",
       "prezzo": 1980,
       "categoria": "aziende",
-      "target": [
-        "ufficio"
-      ],
+      "target": ["ufficio"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Colonna",
-      "immagini": [
-        "/fotoProdotti/prodotti uffici/elysiumHot/elysiumHot.jpg"
-      ],
+      "immagini": ["/fotoProdotti/prodotti uffici/elysiumHot/elysiumHot.jpg"],
       "descrizione_breve": "Acqua Refrigerata a Colonna con Ultrafiltrazione – 3 vie acqua fredda, calda e ambiente.",
       "descrizione_estesa": "ELYSIUM HOT: ANCHE PER TÈ E TISANE\n\nLa colonna completa che offre anche Acqua Calda, oltre a Fredda e Ambiente.\n\nINTERFACCIA INTUITIVA:\n• Sinistra: Acqua Calda (con blocco sicurezza).\n• Centro: Acqua Ambiente.\n• Destra: Acqua Fredda.\n\nTECNICA:\n• Serbatoio Freddo Inox AISI-304 ad alta capacità.\n• Uscita in plastica antibatterica sostituibile.\n\nPerfetto per la pausa caffè e l'idratazione quotidiana.",
       "caratteristiche": [
@@ -1513,10 +1398,7 @@
       "id": "juicy-pulsanti",
       "nome": "Juicy Pulsanti",
       "categoria": "ristorazione",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Soprabanco",
       "immagini": [
@@ -1600,10 +1482,7 @@
       "id": "juicy-touch",
       "nome": "Juicy Touch",
       "categoria": "ristorazione",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Soprabanco",
       "immagini": [
@@ -1688,11 +1567,7 @@
       "nome": "Alaska con Spillatrice",
       "prezzo": 9500,
       "categoria": "ristorazione",
-      "target": [
-        "bar",
-        "ristorante",
-        "mensa"
-      ],
+      "target": ["bar", "ristorante", "mensa"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Soprabanco",
       "immagini": [
@@ -1788,10 +1663,7 @@
       "nome": "Alaska Undersink",
       "prezzo": 6000,
       "categoria": "ristorazione",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Sottobanco",
       "immagini": [
@@ -1887,10 +1759,7 @@
       "nome": "Alaska Touch",
       "prezzo": 6000,
       "categoria": "ristorazione",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Ultrafiltrazione/Microfiltrazione",
       "installazione": "Soprabanco",
       "immagini": [
@@ -1928,11 +1797,7 @@
       "nome": "Tower Pulsanti",
       "prezzo": 670,
       "categoria": "rubinetti",
-      "target": [
-        "casa",
-        "ufficio",
-        "bar"
-      ],
+      "target": ["casa", "ufficio", "bar"],
       "tecnologia": "Elettronica",
       "installazione": "Colonnina",
       "immagini": [
@@ -1992,11 +1857,7 @@
       "nome": "Tower Touch",
       "prezzo": 780,
       "categoria": "rubinetti",
-      "target": [
-        "casa",
-        "ufficio",
-        "bar"
-      ],
+      "target": ["casa", "ufficio", "bar"],
       "tecnologia": "Touch",
       "installazione": "Colonnina",
       "immagini": [
@@ -2056,11 +1917,7 @@
       "nome": "Tower Display",
       "prezzo": 1020,
       "categoria": "rubinetti",
-      "target": [
-        "casa",
-        "ufficio",
-        "bar"
-      ],
+      "target": ["casa", "ufficio", "bar"],
       "tecnologia": "Display Elettronico",
       "installazione": "Colonnina",
       "immagini": [
@@ -2120,11 +1977,7 @@
       "nome": "Atena Erogatore",
       "prezzo": 720,
       "categoria": "rubinetti",
-      "target": [
-        "bar",
-        "ristorante",
-        "casa"
-      ],
+      "target": ["bar", "ristorante", "casa"],
       "tecnologia": "Meccanica",
       "installazione": "Soprabanco",
       "immagini": [
@@ -2180,9 +2033,7 @@
       "nome": "Rubinetto Cairo",
       "prezzo": 350,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2195,13 +2046,7 @@
       "specifiche": {
         "plus": "Design Curvo",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2209,9 +2054,7 @@
       "nome": "Rubinetto Porto",
       "prezzo": 370,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2224,13 +2067,7 @@
       "specifiche": {
         "plus": "Finitura Premium",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2238,9 +2075,7 @@
       "nome": "Rubinetto Roma",
       "prezzo": 480,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2253,13 +2088,7 @@
       "specifiche": {
         "plus": "Stile Classico",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2267,9 +2096,7 @@
       "nome": "Rubinetto Seul",
       "prezzo": 260,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2285,13 +2112,7 @@
       "specifiche": {
         "plus": "Varie Finiture",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2299,9 +2120,7 @@
       "nome": "Rubinetto Siena",
       "prezzo": 300,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2314,13 +2133,7 @@
       "specifiche": {
         "plus": "Eleganza",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2328,10 +2141,7 @@
       "nome": "Rubinetto Spill Line",
       "prezzo": 550,
       "categoria": "rubinetti",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Meccanica",
       "installazione": "Soprabanco",
       "immagini": [
@@ -2351,10 +2161,7 @@
       "nome": "Rubinetto Spill Pro",
       "prezzo": 520,
       "categoria": "rubinetti",
-      "target": [
-        "bar",
-        "ristorante"
-      ],
+      "target": ["bar", "ristorante"],
       "tecnologia": "Meccanica",
       "installazione": "Soprabanco",
       "immagini": [
@@ -2373,9 +2180,7 @@
       "nome": "Rubinetto Tokyo",
       "prezzo": 230,
       "categoria": "rubinetti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Meccanica",
       "installazione": "Sopralavello",
       "immagini": [
@@ -2388,13 +2193,7 @@
       "specifiche": {
         "plus": "Minimalista",
         "personalizzazione": "Colorato",
-        "codici_colori": [
-          "W",
-          "B",
-          "C",
-          "G",
-          "S"
-        ]
+        "codici_colori": ["W", "B", "C", "G", "S"]
       }
     },
     {
@@ -2402,14 +2201,10 @@
       "nome": "Candy 30lt",
       "prezzo": 1590,
       "categoria": "addolcitori",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Addolcitore",
       "installazione": "Cabinato",
-      "immagini": [
-        "/fotoProdotti/addolcitori/candy/candy30/candy30.png"
-      ],
+      "immagini": ["/fotoProdotti/addolcitori/candy/candy30/candy30.png"],
       "descrizione_breve": "Addolcitore acqua Cabinato 30 lt. Resina – 6/10 Persone.",
       "descrizione_estesa": "CANDY 30LT: ADDIO CALCARE\n\nAddolcitore cabinato ad alta capacità, la soluzione definitiva per famiglie numerose (6-10 persone).\n\nBENEFICI:\n• Protezione Totale: Elimina il calcare salvaguardando tubature ed elettrodomestici.\n• Risparmio: Riduce il consumo di detersivi e l'energia per il riscaldamento dell'acqua.\n• Acqua Dolce: Pelle più morbida e capelli più lucenti.\n\nInclude ByPass per una facile manutenzione.",
       "caratteristiche": [
@@ -2472,14 +2267,10 @@
       "nome": "Candy 20lt",
       "prezzo": 1190,
       "categoria": "addolcitori",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Addolcitore",
       "installazione": "Cabinato",
-      "immagini": [
-        "/fotoProdotti/addolcitori/candy/candy20/candy20.png"
-      ],
+      "immagini": ["/fotoProdotti/addolcitori/candy/candy20/candy20.png"],
       "descrizione_breve": "Addolcitore Cabinato 20 lt. Resina – 4/6 Persone.",
       "descrizione_estesa": "CANDY 20LT: IL BEST SELLER\n\nAddolcitore cabinato versatile, ideale per nuclei familiari medi (4-6 persone).\n\nPERCHÉ INSTALLARLO:\n• Efficienza: Rigenerazione volumetrica per risparmio di sale e acqua.\n• Comfort: Acqua priva di calcare per tutta la casa.\n• Durata: Prolunga la vita della tua caldaia e lavatrice.\n\nCompatto ed efficace, elimina per sempre il calcare.",
       "caratteristiche": [
@@ -2542,14 +2333,10 @@
       "nome": "Candy 12lt",
       "prezzo": 1190,
       "categoria": "addolcitori",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Addolcitore",
       "installazione": "Cabinato",
-      "immagini": [
-        "/fotoProdotti/addolcitori/candy/candy12/candy12.png"
-      ],
+      "immagini": ["/fotoProdotti/addolcitori/candy/candy12/candy12.png"],
       "descrizione_breve": "Addolcitore Cabinato 12 lt. Resina – 1/2 Persone.",
       "descrizione_estesa": "CANDY 12LT: PICCOLO E POTENTE\n\nLa soluzione compatta per appartamenti, single o coppie (1-2 persone).\n\nVANTAGGI:\n• Dimensioni ridotte: Si installa facilmente anche in spazi stretti.\n• Risultato Garantito: Stessa efficacia dei modelli più grandi nell'eliminare il calcare.\n• Manutenzione minima.\n\nProteggi i tuoi impianti anche in spazi ridotti.",
       "caratteristiche": [
@@ -2612,14 +2399,10 @@
       "nome": "Crystal Nylon",
       "prezzo": 15,
       "categoria": "borracce",
-      "target": [
-        "personale"
-      ],
+      "target": ["personale"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/borrace/crystal/crystalNylon.png"
-      ],
+      "immagini": ["/fotoProdotti/borrace/crystal/crystalNylon.png"],
       "descrizione_breve": "Borraccia crystal in vetro 500ml con tappo argento.",
       "descrizione_estesa": "CRYSTAL NYLON\n\nBorraccia da 500ml in vetro resistente.\n\n• Design: Moderno e trasparente.\n• Portabilità: Pratico laccetto in nylon integrato.\n• Chiusura: Tappo a vite argento ermetico.\n\nPerfetta per l'uso quotidiano o come idea regalo ecologica.",
       "caratteristiche": [
@@ -2650,14 +2433,10 @@
       "nome": "Crystal Legno",
       "prezzo": 15,
       "categoria": "borracce",
-      "target": [
-        "personale"
-      ],
+      "target": ["personale"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/borrace/crystal/crystalLegno.png"
-      ],
+      "immagini": ["/fotoProdotti/borrace/crystal/crystalLegno.png"],
       "descrizione_breve": "Borraccia Crystal in vetro 500ml con tappo in legno.",
       "descrizione_estesa": "CRYSTAL LEGNO\n\nBorraccia in vetro da 500ml con un tocco naturale.\n\n• Dettagli: Tappo in vero legno per uno stile organico.\n• Materiale: Vetro di alta qualità che non altera i sapori.\n• Utilizzo: Ideale per ufficio e tempo libero.\n\nEleganza sostenibile a portata di mano.",
       "caratteristiche": [
@@ -2688,14 +2467,10 @@
       "nome": "Hydrox Ceramica",
       "prezzo": 35,
       "categoria": "borracce",
-      "target": [
-        "personale"
-      ],
+      "target": ["personale"],
       "tecnologia": "Ceramica",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/borrace/hydroxCeramic/hydroxCeramic600.png"
-      ],
+      "immagini": ["/fotoProdotti/borrace/hydroxCeramic/hydroxCeramic600.png"],
       "descrizione_breve": "Borraccia Acciaio inox con rivestimento in ceramica 600ml.",
       "descrizione_estesa": "HYDROX CERAMICA 600ML\n\nUn nuovo modo di idratarsi: Tecnologia ibrida Acciaio-Ceramica.\n\nPERCHÉ È SPECIALE:\n• Gusto Puro: Il rivestimento interno in ceramica evita il contatto coi metalli. Nessun trasferimento di sapore.\n• Temperatura: Mantiene la temperatura a lungo grazie alla struttura isolata.\n• Igiene: Facilissima da pulire con semplice acqua.\n• Design: Manico ergonomico per il trasporto.\n\nIl gusto autentico della tua bevanda, ovunque tu sia.\n\nLe personalizzazioni hanno un costo di €5",
       "caratteristiche": [
@@ -2726,9 +2501,7 @@
       "nome": "Tritarifiuti La Sorgente",
       "prezzo": 500,
       "categoria": "tritarifiuti",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Triturazione",
       "installazione": "Sottolavello",
       "immagini": [
@@ -2741,7 +2514,7 @@
       "caratteristiche": [
         {
           "nome": "Potenza",
-          "valore": "750W"
+          "valore": "550W"
         },
         {
           "nome": "Frequenta",
@@ -2753,11 +2526,11 @@
         },
         {
           "nome": "Corrente elettrica",
-          "valore": "4A"
+          "valore": "3.25A"
         },
         {
           "nome": "Velocità rotazione",
-          "valore": "4000-4500RPm"
+          "valore": "3200-3600RPm"
         },
         {
           "nome": "Motore",
@@ -2794,6 +2567,46 @@
         {
           "nome": "Suono isolato",
           "valore": "Dirigibile + Cotone insonorizzato"
+        },
+        {
+          "nome": "Misura installazione",
+          "valore": "114/90"
+        },
+        {
+          "nome": "Intervallo Diametro",
+          "valore": "140, 160, 180"
+        },
+        {
+          "nome": "Modalità di commutazione",
+          "valore": "Telecomando e interruttore dell'aria"
+        },
+        {
+          "nome": "Sistema di smorzamento",
+          "valore": "Smorzamento complessivo"
+        },
+        {
+          "nome": "Materiale principale",
+          "valore": "Acciaio inossidabile"
+        },
+        {
+          "nome": "Sistema installazione",
+          "valore": "Lega espressa"
+        },
+        {
+          "nome": "Dispositivo di sovraccarico",
+          "valore": "Protezione da surriscaldamento e sovraccarico"
+        },
+        {
+          "nome": "Interruttore di protezione",
+          "valore": "Ripristino manuale"
+        },
+        {
+          "nome": "Vita utile",
+          "valore": "10 anni"
+        },
+        {
+          "nome": "Garanzia",
+          "valore": "2 anni"
         }
       ],
       "specifiche": {
@@ -2806,11 +2619,7 @@
       "nome": "Bottiglia Basic 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
       "immagini": [
@@ -2850,11 +2659,7 @@
       "nome": "Bottiglia Classic 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
       "immagini": [
@@ -2894,16 +2699,10 @@
       "nome": "Bottiglia Cilinder 50cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaCilinderTappoNero50.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaCilinderTappoNero50.jpg"],
       "descrizione_breve": "Bottiglia Cilinder 50cl con Tappo Nero.",
       "descrizione_estesa": "BOTTIGLIA CILINDER 50CL\n\nBottiglia Cilinder lineare ed elegante grazie alla sua superficie cilindrica.\nConsigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -2938,16 +2737,10 @@
       "nome": "Bottiglia Cilinder 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaCilinderTappoNero75.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaCilinderTappoNero75.jpg"],
       "descrizione_breve": "Bottiglia Cilinder 75cl con Tappo Nero.",
       "descrizione_estesa": "BOTTIGLIA CILINDER 75CL\n\nBottiglia Cilinder lineare ed elegante grazie alla sua superficie cilindrica.\nConsigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -2982,16 +2775,10 @@
       "nome": "Bottiglia Tube 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaInVetroTube75.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaInVetroTube75.jpg"],
       "descrizione_breve": "Bottiglia in vetro Tube 75cl.",
       "descrizione_estesa": "BOTTIGLIA TUBE 75CL\n\nBottiglia Tube elegante in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -3022,16 +2809,10 @@
       "nome": "Bottiglia Puffy 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaInVetroPuffy75.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaInVetroPuffy75.jpg"],
       "descrizione_breve": "Bottiglia in vetro Puffy 75cl.",
       "descrizione_estesa": "BOTTIGLIA PUFFY 75CL\n\nBottiglia Puffy design esclusivo in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -3062,16 +2843,10 @@
       "nome": "Bottiglia Diam 70cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaInVetroDiam70.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaInVetroDiam70.jpg"],
       "descrizione_breve": "Bottiglia in vetro Diam 70cl.",
       "descrizione_estesa": "BOTTIGLIA DIAM 70CL\n\nBottiglia dal design semplice ed esclusivo.\nBottiglia consigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -3102,16 +2877,10 @@
       "nome": "Bottiglia Slowly 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
-      "immagini": [
-        "/fotoProdotti/bottiglie/BottigliaInVetroSlowly75.jpg"
-      ],
+      "immagini": ["/fotoProdotti/bottiglie/BottigliaInVetroSlowly75.jpg"],
       "descrizione_breve": "Bottiglia in vetro Slowly 75cl.",
       "descrizione_estesa": "BOTTIGLIA SLOWLY 75CL\n\nBottiglia Slowly design classico in vetro resistente, di alta qualità e trasparenza.\nConsigliata per ristoranti, bar o per uso domestico.",
       "caratteristiche": [
@@ -3142,11 +2911,7 @@
       "nome": "Bottiglia Old 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
       "immagini": [
@@ -3182,11 +2947,7 @@
       "nome": "Bottiglia Vintage 75cl",
       "categoria": "bottiglie",
       "pdf_download": "/listinoAccessoriB2B.pdf",
-      "target": [
-        "ristorante",
-        "bar",
-        "casa"
-      ],
+      "target": ["ristorante", "bar", "casa"],
       "tecnologia": "Vetro",
       "installazione": "Portatile",
       "immagini": [
@@ -3222,18 +2983,15 @@
       "nome": "Ozonizzatore BlueOxy",
       "prezzo": 700,
       "categoria": "ozonizzatori",
-      "target": [
-        "casa",
-        "ufficio"
-      ],
+      "target": ["casa", "ufficio"],
       "tecnologia": "Ozono",
       "installazione": "Portatile / Muro",
       "immagini": [
         "/fotoProdotti/ozonizatore/blueoxy1.png",
         "/fotoProdotti/ozonizatore/blueoxy2.jpg"
       ],
-      "descrizione_breve": "Sistema di sanificazione ad ozono BlueOxy.",
-      "descrizione_estesa": "BLUEOXY: LA FORZA DELL'OZONO\n\nDispositivo ozonizzatore avanzato per lavatrice e uso domestico.\n\nDOPPIA FUNZIONE:\n1. Integrazione Lavatrice: Si collega al ciclo di lavaggio per igienizzare i capi senza residui chimici, eliminando batteri, virus, muffe e odori.\n2. Doccino Esterno: Permette di prelevare acqua ozonizzata per sanificare superfici, oggetti, frutta e verdura.\n\nSemplice, sicuro ed ecologico: migliora l'igiene quotidiana sfruttando la potenza naturale dell'ossidazione.",
+      "descrizione_breve": "Ozonizzatore per lavatrice di ultima generazione BlueOxy.",
+      "descrizione_estesa": "BLUEOXY – Tecnologia di Lavaggio a Ozono\n\nIl sistema BLUEOXY è un ozonizzatore per lavatrice di ultima generazione, progettato per introdurre ozono (O₃) nell'acqua di lavaggio e igienizzare i capi senza l'uso di detersivi chimici, o con un uso molto ridotto.\n\nFUNZIONAMENTO SCIENTIFICO DI BLUEOXY:\n\n1. Generazione dell'ozono:\nBLUEOXY preleva ossigeno (O₂) dall'aria e lo trasforma in ozono (O₃) grazie a una scarica elettrica ad alta tensione o a speciali lampade UV.\n\n2. Iniezione e miscelazione:\nL'ozono viene immesso nell'acqua fredda e indirizzato nella lavatrice, senza necessità di riscaldamento.\n\n3. Azione igienizzante e ossidante:\nL'ozono è un potente ossidante, capace di:\n• Eliminare batteri, virus, muffe e lieviti\n• Sciogliere grassi e sporco organico\n• Neutralizzare odori\n• Sbiancare delicatamente i tessuti\n\n4. Sicurezza e decomposizione naturale:\nDopo l'azione pulente, l'ozono si riconverte naturalmente in ossigeno (O₂), lasciando l'acqua pura e priva di residui chimici.\n\nI VANTAGGI DI BLUEOXY:\n• Lavaggio con acqua fredda, risparmio energetico\n• Riduzione significativa o eliminazione totale dei detersivi",
       "caratteristiche": [],
       "specifiche": {
         "plus": "Sanificazione Naturale",
@@ -3245,9 +3003,7 @@
       "nome": "Decalcificatore La Sorgente",
       "prezzo": 190,
       "categoria": "decalcificatori",
-      "target": [
-        "casa"
-      ],
+      "target": ["casa"],
       "tecnologia": "Magnetica/Elettronica",
       "installazione": "Tubazione",
       "immagini": [
