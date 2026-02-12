@@ -2599,14 +2599,6 @@
         {
           "nome": "Interruttore di protezione",
           "valore": "Ripristino manuale"
-        },
-        {
-          "nome": "Vita utile",
-          "valore": "10 anni"
-        },
-        {
-          "nome": "Garanzia",
-          "valore": "2 anni"
         }
       ],
       "specifiche": {
